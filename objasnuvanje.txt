@@ -1,0 +1,6 @@
+1. snapfile reader za vcituvanje na json fajlot so podatocite i naredno dodavame json parser
+za obrabotka na fajlot
+2. dodavame copy snap za da go iskopira vlezniot fajl zanaredno so rest get snapovite
+da gi prevzememe podatocite za vremeto vo areite za sekoj ID posebno (posledniot ID vrakja error, ne postoi).
+3. so dodavanje na mapper na sekoj rest get gi mapirame vo nova tabela so uredni podatoci
+4. so union snap site podatoci gi inkorporirame vo edna zaednicka tabela
